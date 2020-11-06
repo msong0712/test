@@ -1,7 +1,7 @@
 import time
 import pandas as pd
 import numpy as np
-
+# should we add more cities?
 CITY_DATA = { 'chicago': 'chicago_Illinois.csv',
               'new york city': 'new_york_city_NewYork.csv',
               'washington': 'washington_Oregon.csv' }
